@@ -22,6 +22,10 @@
       "cmp": [
         "dist/cmp/cmp",
         "dist/cmp"
+      ],
+      "cmp2": [
+        "dist/cmp2/cmp2",
+        "dist/cmp2"
       ]
     }
   },
